@@ -21,5 +21,13 @@ git mv (de onde esta) (renomear o mesmo arquivo que esta no mesmo lugar)
 
 git mv (de onde) (para onde)
 
+* brench *
+
+git branch (nome) -> ve as branch
+
+git checkout (nome) -> vai para a branch
+
+git checkout -b (nome) -> cira e vai pra branch
+
 
 -----------------------------------------
