@@ -12,8 +12,12 @@ git push -> Para subir o git para o gitHub
  git clone https://github.com/EmanuelHSC/studying_git-github_1.git
 
 
-
 * Renomeando arquivos *
+
+git mv (de onde esta) (renomear o mesmo arquivo que esta no mesmo lugar)
+
+
+* movendo arquivos *
 
 git mv (de onde) (para onde)
 
